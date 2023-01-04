@@ -21,9 +21,7 @@
 ## :heart_eyes: Demo
 
 
-<p align="center">
-  <img src="https://github.com/SWESRINIS/AFRY_UserCompany_WebApp/master/public/demo.gif" alt="Demo" width="800" />
-</p>
+![](https://github.com/SWESRINIS/AFRY_UserCompany_WebApp/blob/main/public/demo.gif)
 
 ##  ➤ Stack
 
